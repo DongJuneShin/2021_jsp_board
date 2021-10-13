@@ -34,7 +34,7 @@
 				<span class="label-text">내용</span>
 			</label>		
 			<textarea maxlength="2000" class="textarea textarea h-60 textarea-bordered" placeholder="내용" name="body"></textarea>
-		</div>
+		</div>												<!-- 높이를 높이고 싶으면 h-숫자를 넣으면 되나 tailwind.cheat sheet 에 가서 h- 하면 쓸수있는 거 나옴-->
 
 
 	</form>
