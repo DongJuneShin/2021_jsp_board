@@ -50,7 +50,7 @@
 					ArticleWrite__submitDone=true;
 				}
 			</script>
-			<form action="../article/doWrite" method="POST" onsubmit="ArticleWrite__ submit(this) return false;">
+			<form action="../article/dowrite" method="POST" onsubmit="ArticleWrite__ submit(this) return false;">
 				<div class="form-control">
 					<label class="label">
 						<span class="label-text">제목</span>
